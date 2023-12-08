@@ -46,6 +46,3 @@ repeat();
   <img align="center" alt="Gabrielhilins-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="PedroCezardev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div>
-
- ![Snake animation](https://github.com/gabrielhilins/gabrielhilins/blob/output/github-contribution-grid-snake.svg
-
