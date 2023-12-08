@@ -31,8 +31,8 @@ repeat();
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilins&layout=compact&theme=radical">
 </div
 
-<div style="display: inline_block" align="center">
-  <h2 align="left">Languages and Tools:</h2>
+<div align="center">
+  <h2>Languages and Tools:</h2>
   <img align="center" alt="Gabrielhilins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabrielhilins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabrielhilins-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
