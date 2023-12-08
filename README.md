@@ -11,6 +11,7 @@ eat();
 sleep();
 code();
 repeat();
+}
 ```
   <br>
   
