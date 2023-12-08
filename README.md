@@ -4,5 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhilins&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilins)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/gabrielhilins">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gabrielhilins&show_icons=true&theme=radical">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilins)](https://github.com/anuraghazra/github-readme-stats">
+</div>
