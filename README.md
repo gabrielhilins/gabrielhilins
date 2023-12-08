@@ -14,12 +14,6 @@ repeat();
 }
 ```
   <br>
-  
-## ✉️ Contato
-<div align="center"> 
-  <a href = "gabrielhilins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "www.linkedin.com/in/gabriel-henrique-lins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <div align="center"> 
   <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="70%">
