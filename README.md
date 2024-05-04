@@ -38,7 +38,7 @@ repeat();
   <img align="center" alt="Gabrielhilins-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gabrielhilins-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" alt="Gabrielhilins-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Gabrielhilins-VERCEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+  <img align="center" alt="Gabrielhilins-VERCEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
   <img align="center" alt="Gabrielhilins-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabrielhilins-NOTION" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
  </div>
