@@ -24,8 +24,8 @@ Sou um entusiasta em desenvolver soluções inovadoras que unem tecnologia, desi
 
 <div align="center">
   <a href="https://github.com/gabrielhilins">
-    <img height="60" src="https://github-readme-stats.vercel.app/api?username=gabrielhilins&show_icons=true&theme=radical">
-    <img height="60" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilins&layout=compact&theme=radical">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielhilins&show_icons=true&theme=radical">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilins&layout=compact&theme=radical">
   </a>
 </div>
 
