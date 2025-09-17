@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Hello+Friend%2C+Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 # 🧑‍💻 Gabriel Henrique Lins
 
 **`FullStack Developer`** | **`Desenvolvedor FullStack`**
@@ -115,17 +117,15 @@ Sou um entusiasta em desenvolver soluções inovadoras que unem tecnologia, desi
   <img align="center" alt="Gabrielhilins-TRELLO" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 </div>
 
----
-
-### 🔗 Connect with Me | Conecte-se Comigo
-
-<div align="center">
-  [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-lins)
-  [E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhilins@gmail.com)
-  [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ggabstechdesign)
-  [Portfolio](https://img.shields.io/badge/Website-4B4B4B?style=for-the-badge&logo=link&logoColor=white)](https://gabriel-henrique-lins.vercel.app/)
-</div>
-
 <br>
+
+### 🔗 Connect with Me | Conecte-se Comigo 
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gabriel-henrique-lins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/ggabstechdesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielhilins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
 
 <h3 align="center">Let's connect and create something amazing together! | Vamos conectar e criar algo incrível juntos!</h3>
