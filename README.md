@@ -83,7 +83,7 @@ Sou um entusiasta em desenvolver soluções inovadoras que unem tecnologia, desi
 
 ---
 
-#### **DevOps & Cloud**
+#### **DevOps & Infrastructure**
   <img align="center" alt="Gabrielhilins-DOCKER" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> <img src="https://img.shields.io/badge/Learning-65C466?style=flat-square">
   <img align="center" alt="Gabrielhilins-KUBERNETES" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" /> <img src="https://img.shields.io/badge/Learning-65C466?style=flat-square">
   <img align="center" alt="Gabrielhilins-TERRAFORM" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> <img src="https://img.shields.io/badge/Learning-65C466?style=flat-square">
