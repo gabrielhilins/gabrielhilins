@@ -89,7 +89,6 @@ Sou um entusiasta em desenvolver soluções inovadoras que unem tecnologia, desi
   <img align="center" alt="Gabrielhilins-TERRAFORM" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> <img src="https://img.shields.io/badge/Learning-65C466?style=flat-square">
   <img align="center" alt="Gabrielhilins-GITHUBACTIONS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg">
   <img align="center" alt="Gabrielhilins-JENKINS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"> <img src="https://img.shields.io/badge/Learning-65C466?style=flat-square">
-  <img align="center" alt="Gabrielhilins-RENDER" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-plain.svg" />
 
 ---
 
