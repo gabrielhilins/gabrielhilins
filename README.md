@@ -15,7 +15,7 @@ Olá, me chamo Gabriel Henrique Lins, tenho 20 anos e sou natural de Recife, Per
 Sou um entusiasta em desenvolver soluções inovadoras que unem tecnologia, design e impacto. Por isso, criei minha própria marca pessoal de soluções de tech e design, a [GGABS TECH & DESIGN](https://www.ggabstechdesign.com.br/). Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, contribuindo com equipes inovadoras para criar produtos digitais de alta qualidade, que entreguem valor real para usuários e negócios.
 
 <div align="center">
-  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="60%">
+  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="90%">
 </div>
 
 ---
