@@ -113,16 +113,6 @@ Meu objetivo é evoluir constantemente como Desenvolvedor Full Stack, contribuin
 
 <br>
 
-- **NestJS**
-- **Vue.js**
-- **Golang**
-- **Docker (advanced usage)**
-- **Kubernetes**
-- **Terraform**
-- **Apache Kafka**
-- **RabbitMQ**
-- **Jenkins**
-
 ---
 
 ## 🔗 Connect With Me | Conecte-se Comigo
