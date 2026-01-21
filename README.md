@@ -53,6 +53,8 @@ Meu objetivo é evoluir constantemente como Desenvolvedor Full Stack, contribuin
 
 ### ✅ Main Stack (Domínio Atual)
 
+<div align="center"> 
+
 #### Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="55"/>
@@ -88,6 +90,8 @@ Meu objetivo é evoluir constantemente como Desenvolvedor Full Stack, contribuin
 
 ### Observability
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="55"/>
+
+</div>
 
 ---
 
